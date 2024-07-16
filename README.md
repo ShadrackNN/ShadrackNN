@@ -7,21 +7,32 @@ I am a passionate software developer and data engineer with a degree in Computer
 
 ## 🛠️ Technologies & Tools
 Languages: Python, JavaScript, PHP, SQL
-Frameworks: Laravel, Django, React
-Databases: MySQL, PostgreSQL, MongoDB
+
+Frameworks: Laravel, Yii2, Django, React
+
+Databases: MySQL, MSSQL, Firebase, MongoDB
+
 Tools: Git, Docker, Kubernetes, Jenkins
+
 Cloud Platforms: AWS, Azure, Google Cloud
-Other: Quickbooks Online, Tableau, Figma, Flutter
+
+Other: Tableau, Figma, Flutter
 
 ## 💼 Professional Experience
 State Department for Public Service, Kenya
 
 Developed and maintained the HRIS payroll system.
+
 Co-created Pasha Ombudsman for service performance and feedback.
+
 Contributed to Dashboard360 for Huduma Kenya Secretariat.
+
 Integrated IPPD-KRA-IFMIS-CBK systems for streamlined operations.
+
 Assisted human resource committees with data analysis and collection.
+
 Configured and troubleshooted various server and computer issues(Nutanix--{Linux & Windows Servers}).
+
 Freelance Software Developer & Data Engineer.
 
 ## 🌟 Key Projects
@@ -35,6 +46,7 @@ IPPD-KRA-IFMIS-CBK Integration: Integrated systems to streamline operations.
 
 ## 🎓 Education
 Bachelor's Degree in Computer Science
+
 Certified Data Analyst by IBM
 
 ## 🌍 Let's Connect!
