@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShadrackNN)](https://github.com/ShadrackNN/github-profile-trophy)
 ## Hi there 👋
 
 <!--
