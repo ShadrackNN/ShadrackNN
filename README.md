@@ -26,8 +26,11 @@ Freelance Software Developer & Data Engineer.
 
 ## 🌟 Key Projects
 HRIS Payroll System: Comprehensive payroll management for Kenya's Public Service sector.
+
 Pasha Ombudsman: Feedback and service performance system for public feedback, suggestions and complaints.
+
 Dashboard360: Integrated service dashboard for Huduma Kenya Secretariat.
+
 IPPD-KRA-IFMIS-CBK Integration: Integrated systems to streamline operations.
 
 ## 🎓 Education
