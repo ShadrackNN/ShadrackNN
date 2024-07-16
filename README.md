@@ -48,7 +48,7 @@ IPPD-KRA-IFMIS-CBK Integration: Integrated systems to streamline operations.
 ## 🎓 Education
 Bachelor's Degree in Computer Science
 
-Certified Data Analyst by IBM
+Certified Data Analyst by IBM.
 
 ## 🌍 Let's Connect!
 LinkedIn - https://www.linkedin.com/in/shadrack-ngotho-85b65171/
