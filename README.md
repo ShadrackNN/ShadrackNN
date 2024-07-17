@@ -7,9 +7,9 @@
 I am a passionate software developer and data engineer with a degree in Computer Science. With a rich background in various technological fields, I have been involved in numerous impactful projects. My work experience spans the State Department for Public Service, where I was part of the team that developed the HRIS payroll system. Additionally, I contributed to the creation of Pasha Ombudsman, a service, performance, and feedback system, and Dashboard360, which brings all services under one dashboard for Huduma Kenya Secretariat. I have also assisted various human resource committees with data cleaning, analysis, interpretation, and collection, and am proficient in server configuration and troubleshooting various computer issues. I have also integrated systems such as IPPD-KRA-IFMIS-CBK to streamline operations.
 
 ## 🛠️ Technologies & Tools
-Languages: Python, JavaScript, PHP, SQL
+Languages: Python, Java, JavaScript, PHP, SQL
 
-Frameworks: Laravel, Yii2, Django, React
+Frameworks: Laravel, Yii2, Django, Flask
 
 Databases: MySQL, MSSQL, Firebase, MongoDB
 
