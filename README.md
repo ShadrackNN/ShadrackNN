@@ -56,6 +56,11 @@ LinkedIn - https://www.linkedin.com/in/shadrack-ngotho-85b65171/
 Twitter - https://x.com/shadrack_ngotho
 
 Email - shadrackngotho@gmail.com
+
+github: [ShadrackNN]
+ko_fi: shadrackngotho
+buy_me_a_coffee: shadrackngotho
+
 <!--
 **ShadrackNN/ShadrackNN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
